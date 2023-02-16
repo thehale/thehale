@@ -12,7 +12,7 @@
   🚀 As a professional developer for almost four years, I have built and deployed
   financial ETL microservices which currently generate over <b>$700,000 in
   recurring annual revenues</b>. I regularly contribute to open-source projects,
-  with my code running in <b>projects used by thousands</b>.
+  with my code running in <b>projects downloaded over 36,000,000 times per month</b>.
   <a href="https://github.com/gitpython-developers/GitPython/commits?author=thehale">[1]</a>
   <a href="https://github.com/deanmalmgren/textract/commits?author=thehale">[2]</a>
   <a href="https://github.com/thehale/expressive-resume">[3]</a>
