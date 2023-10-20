@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  🚀 As a professional developer for almost four years, I have built and deployed
+  🚀 As a professional developer for four and a half years, I have built and deployed
   financial ETL microservices which currently generate over <b>$700,000 in
   recurring annual revenues</b>. I regularly contribute to open-source projects,
   with my code running in <b>projects downloaded over 36,000,000 times per month</b>.
@@ -21,11 +21,10 @@
 
 <p>
   🏃‍♂️I learn new technologies quickly, usually building a major production
-  application within three months. At work, this has included a <b>Docker</b>
-  deployment of a <b>Python</b> application and an <b>OAuth/OIDC</b>
-  implementation to support corporate Single Sign-On. At home, this
-  includes my
-  <a
+  application within one to three months of completing my first tutorial.
+  At work, this has included a <b>Docker</b> deployment of a <b>Python</b>
+  application and an <b>OAuth/OIDC</b> implementation to support corporate
+  Single Sign-On. At home, this includes my <a
   href="https://play.google.com/store/apps/details?id=dev.jhale.binaryclock">Binary
   Clock app</a> written in <b>JavaScript</b> using <b>React Native</b>.
 </p>
@@ -34,7 +33,9 @@
    📚 As an undergraduate Software Engineering student at Arizona State University
    I <a href="https://github.com/thehale/DIY-Smartcube">published an <b>honors
    thesis</b></a> detailing an invention which converts a normal Rubik's Cube into a
-   smartcube to track each face turn. I will complete my Master's Degree in May 2023.
+   smartcube to track each face turn. I completed my Master's Degree in May 2023 where
+   I studied software engineering, particularly agile practices, and researched the
+   intersection of mobile apps and smart Rubik's Cubes in my master's thesis.
 </p>
 
 <p>
