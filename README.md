@@ -1,5 +1,6 @@
 ![Problem Solved Banner](https://raw.githubusercontent.com/problemsolved-you/branding/master/logo/banner.png)
 
+[![](https://img.shields.io/badge/Follow-thehale-0A66C2?logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=thehale)
 
 <h1 class="post-title">Hello! 👋🏻</h1>
 
