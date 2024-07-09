@@ -11,8 +11,8 @@
 </p>
 
 <p>
-  🚀 As a professional developer for four and a half years, I have built and deployed
-  financial ETL microservices which currently generate over <b>$700,000 in
+  🚀 As a professional developer since 2019, I have built and deployed
+  financial ETL microservices which currently generate over <b>$800,000 in
   recurring annual revenues</b>. I regularly contribute to open-source projects,
   with my code running in <b>projects downloaded over 36,000,000 times per month</b>.
   <a href="https://github.com/gitpython-developers/GitPython/commits?author=thehale">[1]</a>
